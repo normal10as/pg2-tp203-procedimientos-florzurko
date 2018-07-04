@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe.config
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Procedimientos\Procedimientos\bin\Debug\Procedimientos.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Procedimientos\Procedimientos\bin\Debug\Procedimientos.pdb
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Procedimientos\Procedimientos\bin\Debug\Procedimientos.xml
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.xml
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Procedimientos\Procedimientos\obj\Debug\Procedimientos.pdb
